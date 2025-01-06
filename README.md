@@ -1,2 +1,2 @@
 # Echoes-Reborn
-Echoes Reborn: Revolutionizing Historic Piano Audio Restoration with Neural Networks
+Echoes Reborn: A Comprehensive Pipeline for Historic Piano Audio Restoration
