@@ -62,7 +62,7 @@ pip install torch torchaudio tensorflow librosa matplotlib soundfile opencv-pyth
 ---
 
 ## **Usage**
-1. **Run the Full Pipeline**
+### **Run the Full Pipeline**
    
 Use the pipeline.ipynb notebook to process audio through all pipeline stages:
    - Input: Path to an audio file.
@@ -77,7 +77,7 @@ Use the pipeline.ipynb notebook to process audio through all pipeline stages:
    3. Execute the cells sequentially.
 
       
-2. **Individual Modules**
+### **Individual Modules**
 
 Run specific modules independently for targeted tasks:
 
