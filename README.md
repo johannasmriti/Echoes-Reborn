@@ -6,24 +6,26 @@
 
 ## **Project Structure**
 
+```plaintext
 Echoes-Reborn/
 ├── audio-inpainter/
 │   ├── audio_inpainting_model_LPC.ipynb      # Notebook for LPC-based audio inpainting
 │   ├── lpc_ml.ipynb                          # Supporting LPC implementation details
 ├── classifier/
-│   ├── class-epoch-8.pth                # Pre-trained classifier model weights
-│   ├── classifier.ipynb                 # Classifier model usage notebook
-│   └── classifier_training.ipynb        # Notebook for classifier model training
+│   ├── class-epoch-8.pth                     # Pre-trained classifier model weights
+│   ├── classifier.ipynb                      # Classifier model usage notebook
+│   └── classifier_training.ipynb             # Notebook for classifier model training
 ├── denoiser/
 │   ├── weights/
-│   │   └── autoencoder/                 # Directory for autoencoder weights
-│   ├── cleaned_audio.wav                # Example denoised output
-│   ├── denoisingAudio5sec2.h5           # Pre-trained autoencoder weights
+│   │   └── autoencoder/                      # Directory for autoencoder weights
+│   ├── cleaned_audio.wav                     # Example denoised output
+│   ├── denoisingAudio5sec2.h5                # Pre-trained autoencoder weights
 │   ├── DenoisingAudioMSEOriginalFinal.ipynb  # Denoising process notebook
-│   ├── denoisingLoader.ipynb            # Denoising audio loader
-│   └── noisy_example.wav                # Example noisy audio input
-├── pipeline.ipynb                       # Full pipeline combining classification, denoising, and inpainting
-└── README.md                            # Documentation for the project
+│   ├── denoisingLoader.ipynb                 # Denoising audio loader
+│   └── noisy_example.wav                     # Example noisy audio input
+├── pipeline.ipynb                            # Full pipeline combining classification, denoising, and inpainting
+└── README.md
+```
 
 ---
 
