@@ -66,6 +66,7 @@ pip install torch torchaudio tensorflow librosa matplotlib soundfile opencv-pyth
 Use the pipeline.ipynb notebook to process audio through all pipeline stages:
    - Input: Path to an audio file.
    - Output: Restored audio with noise removed and gaps filled.
+     
 **Steps:**
    1. Open the pipeline.ipynb file.
    2. Configure the paths for:
