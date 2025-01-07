@@ -8,7 +8,7 @@
 
 ```plaintext
 Echoes-Reborn/
-├── audio-inpainter/
+├── audioInpainter/
 │   ├── audio_inpainting_model_LPC.ipynb      # Notebook for LPC-based audio inpainting
 │   ├── lpc_ml.ipynb                          # Supporting LPC implementation details
 ├── classifier/
