@@ -82,7 +82,7 @@ Use the pipeline.ipynb notebook to process audio through all pipeline stages:
 Run specific modules independently for targeted tasks:
 
    - Audio Classification: Use classifier/classifier.ipynb to classify input audio.
-   - Denoising: Use denoiser/DenoisingAudioMSEOriginalFinal.ipynb for noise removal.
+   - Denoising: Use denoiser/denoisingLoader.ipynb for noise removal.
    - Audio Inpainting: Use audio-inpainter/audio_inpainting_model_LPC.ipynb to fill gaps in degraded audio.
      
 
