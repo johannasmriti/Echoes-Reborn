@@ -24,6 +24,7 @@ Echoes-Reborn/
 │   ├── DenoisingAudioMSEOriginalFinal.ipynb  # Denoising process notebook
 │   ├── denoisingLoader.ipynb                 # Denoising audio loader
 │   └── noisy_example.wav                     # Example noisy audio input
+│   └── audio_denoiser.png                    # Diagram of the Architecture of the Denoiser
 ├── pipeline.ipynb                            # Full pipeline combining classification, denoising, and inpainting
 ├── pipelineArchitechture.png                 # Pipeleine Architecture - Workflow Diagram
 └── README.md
