@@ -11,6 +11,7 @@ Echoes-Reborn/
 ├── audioInpainter/
 │   ├── audio_inpainting_model_LPC.ipynb      # Notebook for LPC-based audio inpainting
 │   ├── lpc_ml.ipynb                          # Supporting LPC implementation details
+│   ├── lpc_arch.png                          # Diagram of the Architecture of the Audio Inpainter
 ├── classifier/
 │   ├── class-epoch-8.pth                     # Pre-trained classifier model weights
 │   ├── classifier.ipynb                      # Classifier model usage notebook
