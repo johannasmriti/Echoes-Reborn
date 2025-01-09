@@ -1,6 +1,7 @@
 # **Echoes Reborn: A Comprehensive Pipeline for Historic Piano Audio Restoration**
 
 *Echoes Reborn* is an advanced, end-to-end audio restoration pipeline designed to restore and enhance historical recordings. It combines deep learning with LPC (Linear Predictive Coding)-based inpainting techniques to remove noise, fill gaps, and preserve the fidelity of musical details. This pipeline ensures that clean audio remains untouched while seamlessly restoring degraded sections.
+For a detailed report on the methodology, results, and performance of this restoration pipeline, please refer to the [Echoes Reborn Restoration Report](https://github.com/johannasmriti/Echoes-Reborn/blob/main/Report/NuerIPS_Echoes_Reborn.pdf).
 
 ---
 
