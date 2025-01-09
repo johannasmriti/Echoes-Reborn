@@ -15,6 +15,7 @@ Echoes-Reborn/
 │   ├── class-epoch-8.pth                     # Pre-trained classifier model weights
 │   ├── classifier.ipynb                      # Classifier model usage notebook
 │   └── classifier_training.ipynb             # Notebook for classifier model training
+│   └── spectrogram_classifier.png            # Diagram of the Architecture of the Classifier
 ├── denoiser/
 │   ├── weights/
 │   │   └── autoencoder/                      # Directory for autoencoder weights
