@@ -29,6 +29,11 @@ Echoes-Reborn/
 │   └── audio_denoiser.png                    # Diagram of the Architecture of the Denoiser
 ├── pipeline.ipynb                            # Full pipeline combining classification, denoising, and inpainting
 ├── pipelineArchitechture.png                 # Pipeleine Architecture - Workflow Diagram
+├── Data Preprocessing                        # Directory for dataPreprocessing done for throughout the project
+│   ├── addNoise.py                           # Adds noise to a given audio folder with .wav files
+│   ├── addSilentGap.py                       # Adds a silent gap in the audio (for inpainting)
+│   ├── deleteSmallAudio.py                   # Deltes scmall audios less than 5secs to ensure consistency in the dataset
+│   ├── denoiseTriming.py                     # Trims all audio in the files to be 5 seconds
 └── README.md
 ```
 
