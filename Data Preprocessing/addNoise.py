@@ -8,9 +8,8 @@ def add_noise_to_data(data):
     data_noisy = data + noise
     return data_noisy
 
-clean_folder = '/Users/johannasmriti/Downloads/musicnet/Denoising_Audio/noise_data_clean'  # Change this to your actual folder
-noisy_folder = '/Users/johannasmriti/Downloads/musicnet/Denoising_Audio/noise_data_noisy1'  # Change this to where you want to save noisy files
-
+clean_folder = '/Users/johannasmriti/Downloads/musicnet/Denoising_Audio/noise_data_clean' 
+noisy_folder = '/Users/johannasmriti/Downloads/musicnet/Denoising_Audio/noise_data_noisy1'  
 if not os.path.exists(noisy_folder):
     os.makedirs(noisy_folder)
 
